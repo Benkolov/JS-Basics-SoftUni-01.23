@@ -14,3 +14,4 @@ function dayOfWeek(input){
 }
 
 dayOfWeek([2])
+
