@@ -9,4 +9,6 @@ console.log("Error");
 }
 }
 
-weekendOrWorkingDay(["Monday"])
+
+
+weekendOrWorkingDay()
